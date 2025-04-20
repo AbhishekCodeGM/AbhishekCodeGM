@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Abhishek Chaudhary!
+# 👋 Hi there, I'm Abhishek Chaudhuri!
 
 🎓 I'm currently pursuing a **B.Tech in Computer Science And Engineering** from Techno Engineering College Banipur.  
 💻 I'm a **Full Stack Web Developer** with a passion for crafting clean, responsive, and user-friendly interfaces.  
